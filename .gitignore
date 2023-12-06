@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Excluded
+/kopie
+/NImageViewer/Properties/launchSettings.json
+ViewerTrials
+/BackupSolution.bat
+/CreateIcon.bat
+/deploy.bat
+/NImageViewer.lnk
+/NImageViewerIcon.png
